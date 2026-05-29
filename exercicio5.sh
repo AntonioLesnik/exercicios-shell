@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Digite sua idade:"
 read idade
