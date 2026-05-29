@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Digite um número:"
 read numero
