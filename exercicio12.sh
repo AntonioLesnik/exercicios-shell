@@ -1,4 +1,3 @@
-#!/bin/bash
 
 mkdir projeto
 mkdir projeto/css
