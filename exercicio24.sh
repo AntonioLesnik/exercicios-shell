@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Digite o usuário:"
 read usuario
