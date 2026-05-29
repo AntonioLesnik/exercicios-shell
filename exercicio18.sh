@@ -1,4 +1,3 @@
-#!/bin/bash
 
 usuario_correto="admin"
 senha_correta="1234"
