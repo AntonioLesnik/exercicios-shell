@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Digite a temperatura em Celsius:"
 read c
