@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Digite o nome da pasta:"
 read pasta
