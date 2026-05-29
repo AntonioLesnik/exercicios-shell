@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "1 - Mostrar data"
 echo "2 - Mostrar usuário atual"
