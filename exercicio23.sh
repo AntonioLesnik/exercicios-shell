@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "$(date) - Usuário: $(whoami)" >> sistema.log
 
