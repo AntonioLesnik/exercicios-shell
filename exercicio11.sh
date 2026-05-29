@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Nome da pasta:"
 read pasta
