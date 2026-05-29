@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Digite o primeiro número:"
 read n1
